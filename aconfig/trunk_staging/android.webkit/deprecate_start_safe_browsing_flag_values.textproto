@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.webkit"
-  name: "deprecate_start_safe_browsing"
-  state: ENABLED
-  permission: READ_WRITE
-}

@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.permission.flags"
-  name: "unknown_call_setting_blocked_logging_enabled"
-  state: ENABLED
-  permission: READ_ONLY
-}

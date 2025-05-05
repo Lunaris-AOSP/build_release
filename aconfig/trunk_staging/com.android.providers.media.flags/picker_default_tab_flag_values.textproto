@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.providers.media.flags"
-  name: "picker_default_tab"
-  state: ENABLED
-  permission: READ_ONLY
-}

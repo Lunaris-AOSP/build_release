@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.credentials.flags"
-  name: "fix_metric_duplication_emits"
-  state: ENABLED
-  permission: READ_WRITE
-}

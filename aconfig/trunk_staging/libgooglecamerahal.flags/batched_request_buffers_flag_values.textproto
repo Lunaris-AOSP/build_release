@@ -1,6 +1,0 @@
-flag_value {
-  package: "libgooglecamerahal.flags"
-  name: "batched_request_buffers"
-  state: ENABLED
-  permission: READ_WRITE
-}

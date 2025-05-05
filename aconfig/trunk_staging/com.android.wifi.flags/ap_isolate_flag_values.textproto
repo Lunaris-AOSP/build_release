@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.wifi.flags"
-  name: "ap_isolate"
-  state: ENABLED
-  permission: READ_ONLY
-}

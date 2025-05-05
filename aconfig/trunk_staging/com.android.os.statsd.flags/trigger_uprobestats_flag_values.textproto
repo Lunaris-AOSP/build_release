@@ -1,6 +1,0 @@
-flag_value {
-  package: "com.android.os.statsd.flags"
-  name: "trigger_uprobestats"
-  state: ENABLED
-  permission: READ_ONLY
-}

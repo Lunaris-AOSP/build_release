@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.app"
-  name: "pic_isolate_cache_by_uid"
-  state: ENABLED
-  permission: READ_ONLY
-}
