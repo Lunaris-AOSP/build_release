@@ -1,4 +1,4 @@
 name: "RELEASE_PLATFORM_VERSION_ALL_CODENAMES"
-value: {
+value {
   string_value: "REL"
 }

@@ -1,4 +1,4 @@
 name: "RELEASE_BOARD_API_LEVEL_FROZEN"
-value: {
+value {
   bool_value: true
 }
