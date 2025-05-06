@@ -1,4 +1,4 @@
 name: "RELEASE_NFC_MAINLINE_MODULE"
-value: {
+value {
   bool_value: true
 }

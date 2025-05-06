@@ -1,4 +1,4 @@
 name: "RELEASE_AVF_ENABLE_EARLY_VM"
-value: {
+value {
   bool_value: true
 }
