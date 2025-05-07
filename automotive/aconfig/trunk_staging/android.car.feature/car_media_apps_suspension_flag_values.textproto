@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.car.feature"
-  name: "car_media_apps_suspension"
-  state: ENABLED
-  permission: READ_WRITE
-}
